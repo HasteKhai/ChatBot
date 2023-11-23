@@ -1,20 +1,12 @@
 {
   "questions": [
     {
-      "question": "Hello how are you?",
-      "answer": "I'm doing great, how about you?"
+      "question": "What should I eat today?",
+      "answer": "Pizza"
     },
     {
       "question": "What is 1+1?",
-      "answer": "1 + 1 = 2"
-    },
-    {
-      "question": "What do you feel like eating today?",
-      "answer": "Hamburgers!"
-    },
-    {
-      "question": "fck u",
-      "answer": "That's rude"
+      "answer": "1+1 = 2"
     }
   ]
 }
